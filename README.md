@@ -1,5 +1,10 @@
 # Ejercicio 1
 
+## **SCRUM MASTER**
+### **- Carlos Gomez**
+### **- Marie Mendieta**
+
+
 ## **Capacitacion: Git, bash y Docker**
 Integrantes:
 - Robespierre Corimanya
