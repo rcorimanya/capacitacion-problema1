@@ -10,5 +10,5 @@ cuanto antes. Entendemos por integración la compilación y ejecución de prueba
 DevOps nos dio ventaja. ... DevOps es un conjunto de prácticas que automatizan los procesos entre los equipos de desarrollo de software y TI 
 para que puedan compilar, probar y publicar software con mayor rapidez y fiabilidad
 
-Hola
+Hola desde la rama tarea30
 
